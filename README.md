@@ -1,5 +1,3 @@
-Certo, vou limpar e organizar as informações do seu README.
-
 # IPyCD
 ---
 ## FIC - Introdução ao Python com Ciência de Dados
